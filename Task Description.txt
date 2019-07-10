@@ -1,6 +1,11 @@
-1. There is almost blank react-app boilerplate code provided with images in "IMG" folder. 
-2. Please create contact form component with proper validation. Use regular expressions. There has to be a button on the bottom of the form, which triggers pop-up with the data provided in the contact form. Button should be disabled if input fields are not filled out or they do not validate.   
-3. Please use proper regular expressions to validate specific fields (email, etc).
-4. Style your app in accordance with the design. This time styling is very important. You can use whatever front-end library you want, but it is not necessary if you feel that you can style everything properly without it. 
-5. Contact form has to be responsive. 
-6. Please pay attention to details. 
+IN THIS EXERCISE YOU NEED TO IMPLEMENT DESIGN GIVEN TO YOU 
+
+1. There is almost blank react-app boilerplate code provided with a design file named template.png. 
+2. Please open above-mentioned template file. This is your design.  
+3. Please create contact form component first with proper validation (it is at the bottom of the template). There has to be a button on the bottom of the form, which triggers pop-up with the data provided in the contact form. Button should be disabled if input fields are not filled out or they do not validate.   
+4. Please use proper regular expressions to validate specific fields (email, etc).
+5. Style your app in accordance with the design. This time styling is very important. You can use whatever front-end library you want, but it is not necessary if you feel that you can style everything properly without it. 
+6. Use placholder pictures/icons/video or anything you think fit for other sections. 
+7. Please use Parallax effect for each section. 
+8. Please pay attention to details. 
+9. Do not worry about font that much, pick anything that you think is fine. 
