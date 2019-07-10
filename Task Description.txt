@@ -1,0 +1,6 @@
+1. There is almost blank react-app boilerplate code provided with images in "IMG" folder. 
+2. Please create contact form component with proper validation. Use regular expressions. There has to be a button on the bottom of the form, which triggers pop-up with the data provided in the contact form. Button should be disabled if input fields are not filled out or they do not validate.   
+3. Please use proper regular expressions to validate specific fields (email, etc).
+4. Style your app in accordance with the design. This time styling is very important. You can use whatever front-end library you want, but it is not necessary if you feel that you can style everything properly without it. 
+5. Contact form has to be responsive. 
+6. Please pay attention to details. 
